@@ -1,3 +1,7 @@
+*~
+*.swp
+
+
 *.class
 *.log
 
